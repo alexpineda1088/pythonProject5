@@ -3,7 +3,7 @@
 ciudades = ['Zamora', 'Cuenca', 'Machala']
 dias_semana = ['Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado', 'Domingo']
 semanas = 4
-
+teperaturas= 21,24,23,24,25,24,27
 # Crear la matriz 3D para almacenar las temperaturas
 matriz_temperaturas = []
 
@@ -14,7 +14,7 @@ for semana in range(semanas):
         ciudad_temperaturas =[]
         for dia in dias_semana:
             # Supongamos que inicialmente todas las temperaturas son 22
-            ciudad_temperaturas.append(22)
+            ciudad_temperaturas.append(24)
         semana_temperaturas.append(ciudad_temperaturas)
     matriz_temperaturas.append(semana_temperaturas)
 
@@ -26,3 +26,9 @@ for semana, semana_temperaturas in enumerate(matriz_temperaturas):
         print(f"  {ciudades[ciudad_index]}:")
         for dia_index, temperatura in enumerate(ciudad_temperaturas):
             print(f"    {dias_semana[dia_index]}: {temperatura}°C")
+def calcular_temperatura_promedio(temperaturas):
+    if not temperaturas:
+        return None
+    total_temperaturas = sum(temperaturas)
+    temperatura_promedio = total_temperaturas / len(temperaturas)
+    return temperatura_promedio
