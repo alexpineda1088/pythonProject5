@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bcff9028-b6fa-41dd-a2fa-15979ddb380c" name="Changes" comment="Declaración-ny-asignación-n-de-arreglos-multidimensionales">
-      <change afterPath="$PROJECT_DIR$/Declaración-ny-asignación-n-de-arreglos-multidimensionales/CalculoDescuentoPython.py" afterDir="false" />
+    <list default="true" id="bcff9028-b6fa-41dd-a2fa-15979ddb380c" name="Changes" comment="calculator descuento">
+      <change beforePath="$PROJECT_DIR$/../ProgramaBúsqueda en Arreglo Multidimensional/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgramaBúsqueda en Arreglo Multidimensional/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgramaBúsqueda en Arreglo Multidimensional/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgramaBúsqueda en Arreglo Multidimensional/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgramaBúsqueda en Arreglo Multidimensional/main.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Declaración-ny-asignación-n-de-arreglos-multidimensionales/CalculoDescuentoPython.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../ProgramaBúsqueda en Arreglo Multidimensional" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -49,21 +53,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.CalculoDescuentoPython.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.CalculoDescuentoPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/PycharmProjects&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.CalculoDescuentoPython">
     <configuration name="CalculoDescuentoPython" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject5" />
@@ -141,7 +146,7 @@
       <workItem from="1710011177950" duration="3646000" />
       <workItem from="1710044680329" duration="2956000" />
       <workItem from="1710709771636" duration="94000" />
-      <workItem from="1710709893336" duration="1922000" />
+      <workItem from="1710709893336" duration="4094000" />
     </task>
     <task id="LOCAL-00001" summary="Declaración-ny-asignación-n-de-arreglos-multidimensionales">
       <option name="closed" value="true" />
@@ -175,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710047047977</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Declaración-ny-asignación-n-de-arreglos-multidimensionales">
+      <option name="closed" value="true" />
+      <created>1710711872203</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710711872203</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,7 +199,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="Declaración-ny-asignación-n-de-arreglos-multidimensionales" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pythonProject5$CalculoDescuentoPython.coverage" NAME="CalculoDescuentoPython Coverage Results" MODIFIED="1710711760315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Declaración-ny-asignación-n-de-arreglos-multidimensionales" />
+    <SUITE FILE_PATH="coverage/pythonProject5$CalculoDescuentoPython.coverage" NAME="CalculoDescuentoPython Coverage Results" MODIFIED="1710712127620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Declaración-ny-asignación-n-de-arreglos-multidimensionales" />
     <SUITE FILE_PATH="coverage/pythonProject5$main.coverage" NAME="main Coverage Results" MODIFIED="1710710845345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
